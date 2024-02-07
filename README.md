@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heyjackbalfour
-- 👀 I’m interested in Surfing ...
+- 👀 I’m interested in Surfing and Coding
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on no projects yet. 
 - 📫 How to reach me @simplejack
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in a fire once
