@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @heyjackbalfour
 - 👀 I’m interested in Surfing and Coding
 - 🌱 I’m currently learning HTML and CSS
+- 📚 2024 Standard Boot Camp Coder Academy
 - 💞️ I’m looking to collaborate on no projects yet. 
 - 📫 How to reach me @simplejack
 - 😄 Pronouns: He/Him
